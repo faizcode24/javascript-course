@@ -1,0 +1,15 @@
+.CountLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.CountLabe{
+    display: flexbox;
+    
+    text-align: center;
+    size: 20px;
+    font-size: 40px;
+}
+
